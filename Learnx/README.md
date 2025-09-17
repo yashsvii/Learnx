@@ -1,5 +1,4 @@
 
-<img src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/frontend/src/assets/Logo/Logo-Full-Light.png' />
 
 # Project Description 📝
 StudyNotion is a fully functional ed-tech platform that enables users to create, consume, and rate educational content. <br/>
@@ -9,11 +8,11 @@ The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, 
 <h2>Explanation Video 📺 - [ https://www.youtube.com/watch?v=UP-kqPs4dJ8 ]</h2>
 <hr/>
 
-<h2>Live link 🌍📡 - [  https://study-notion-full-stack.vercel.app/  ]</h2>
+<h2>Live link 🌍📡 - [  [https://learn-x-phi.vercel.app/ ] ]</h2>
 <hr/>
 
 
-<img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/home1.png' />
+
 
 
 
@@ -22,7 +21,7 @@ The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, 
 
 | Section                 | Description                                  |
 |-------------------------|----------------------------------------------|
-| [StudyNotion Aim](#studynotion-aim-)        | 📚 Overview of StudyNotion's goals            |
+| [learnx Aim](#studynotion-aim-)        | 📚 Overview of Learnx's goals            |
 | [Tech Stack](#tech-stack-)             | 💻🔧 Technologies used in the project         |
 | [System Architecture](#system-architecture-)    | 🏰 Overview of the system architecture      |
 | [Architecture Diagram](#architecture-diagram-)   | 🏗️ Diagram illustrating the architecture   |
@@ -36,14 +35,14 @@ The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, 
 
 
 
-## StudyNotion Aim 📚 
+## Learnx Aim 📚 
 <br/>
 1️⃣ A seamless and interactive learning experience for students, making education more accessible and engaging.<br/>
 2️⃣ A platform for instructors to showcase their expertise and connect with learners across the globe.<br/>
 
 <br/>
 <br/>
-<img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/Tech%20stack%20logo/gif.gif' />
+
 
 
 ## Tech Stack 💻🔧 
@@ -74,7 +73,7 @@ The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, 
 
 ## System Architecture 🏰
 <br/>
-☝ The StudyNotion ed-tech platform consists of three main components:  <br/>
+☝ The Learnx ed-tech platform consists of three main components:  <br/>
 The front end, the back end, and the database. The platform follows a client-server architecture, with the front end serving as the client and the back end and database serving as the server.
 
 🎨 Front-end  <br/>
@@ -90,13 +89,13 @@ The database for the platform is built using MongoDB, which is a NoSQL database 
 
 ## Architecture Diagram 🏗️
 <br/>
-Here is a high-level diagram that illustrates the architecture of the StudyNotion ed-tech platform:
+Here is a high-level diagram that illustrates the architecture of the  Learnx ed-tech platform:
 <img width='60%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/Architecture%20Diagram.png' />
 
 
 <hr/>
 
-#### The front end of StudyNotion has all the necessary pages that an ed-tech platform should have. Some of these pages are: 
+#### The front end of  Learnx has all the necessary pages that an ed-tech platform should have. Some of these pages are: 
 
 For Students:
 - **Homepage 🏠:** A brief introduction to the platform with links to the course list and user details and random background.
