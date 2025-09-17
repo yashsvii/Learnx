@@ -1,7 +1,7 @@
 
 
 # Project Description 📝
-StudyNotion is a fully functional ed-tech platform that enables users to create, consume, and rate educational content. <br/>
+Learnx is a fully functional ed-tech platform that enables users to create, consume, and rate educational content. <br/>
 The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
 
 
@@ -21,7 +21,7 @@ The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, 
 
 | Section                 | Description                                  |
 |-------------------------|----------------------------------------------|
-| [learnx Aim](#studynotion-aim-)        | 📚 Overview of Learnx's goals            |
+| [learnx Aim](#Learnx-aim-)        | 📚 Overview of Learnx's goals            |
 | [Tech Stack](#tech-stack-)             | 💻🔧 Technologies used in the project         |
 | [System Architecture](#system-architecture-)    | 🏰 Overview of the system architecture      |
 | [Architecture Diagram](#architecture-diagram-)   | 🏗️ Diagram illustrating the architecture   |
